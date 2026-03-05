@@ -1,9 +1,5 @@
 matplotlib
 numpy
-pandas
-scipy
-torchvision
-pytorch
 opencv-python-headless 
 ipywidgets
 
